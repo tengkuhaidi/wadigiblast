@@ -1,2 +1,2 @@
 # WA Digiblast Download Center
-Repository ini hanya untuk download aplikasi resmi.
+Unudhan resmi sistem WA Digiblast hanya di repository ini
